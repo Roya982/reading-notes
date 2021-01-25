@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Growth mindset 
+**A Growth mindset** is defined *from my point of viwe* as having optimistic, strong, and willed mind to solve any obsticale that face it no matter how hard it is,**a mind that can _embrace_ the challenges, _persist_ the obsticles, and be _inspired_ by the success of others**.
 
-You can use the [editor on GitHub](https://github.com/Roya982/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Roya982/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ #### three reminders to stayin a growth mindset:
+ 1. try to find the root of the ~~obsticale~~ problem when you face it.
+ 2. think of more than one way to solve it.
+ 3. if you failed once don't give up.
+ ## I'm Ro'ya Alakayleh and this is small intro about my self
+ I'm 23 years old, I've got a MLS bachelor dedree from *AABU* in **Jordan**. I'm optimistic person who loves to learn a new things whenever she get the chance.
+- my github link https://github.com/Roya982
