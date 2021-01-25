@@ -7,4 +7,4 @@
  3. if you failed once don't give up.
  - I'm Ro'ya Alakayleh and this is small intro about my self: 
  I'm 23 years old, I've got a MLS bachelor dedree from *AABU* in **Jordan**. I'm optimistic person who loves to learn a new things whenever she get the chance.
-- follow me on github (https://github.com/Roya982)
+- follow me on github [Roya982](https://github.com/Roya982)
