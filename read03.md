@@ -7,7 +7,7 @@
 
 ![photosample](https://miro.medium.com/max/5120/1*HgCPa_mxcFd-nb1wVjnuAg.png)
 
-And to make it easier for you here you go a sum of the most helpful things summarized in the next few lines
+And to make it easier for you here you go a sum of the most helpful things summarized in the next few lines:
 
 ## __*chapter 1*__
 * HTML pages are text documents.
