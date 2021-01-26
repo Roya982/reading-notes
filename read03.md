@@ -1,15 +1,15 @@
-# HTML 
+# __*HTML resources*__
 
 ![htmlphoto](https://irie-at.com/wp-content/uploads/2017/02/html-icon.png)
 
 
-You know, recently I've read a book about HTML coding and I wanted to give you the most important chapters in it, and those are : **chapter 1**, **chapter 8**, **chapter 17**.
+**You know, recently I've read a book about HTML coding and I wanted to give you the most important chapters in it, and those are : *chapter 1*, *chapter 8*, *chapter 17*.**
 
 ![photosample](https://miro.medium.com/max/5120/1*HgCPa_mxcFd-nb1wVjnuAg.png)
 
 And to make it easier for you here you go a sum of the most helpful things summarized in the next few lines
 
-__*chapter 1*__
+## __*chapter 1*__
 * HTML pages are text documents.
 
 * HTML uses tags (characters that sit inside angled
@@ -31,7 +31,7 @@ about the content of that element.
 available for you to use, what they do, and where they
 can go.
 
-__*chapter 8*__
+## __*chapter 8*__
 * DOCTYPES tell browsers which version of HTML you
 are using.
 
@@ -53,7 +53,7 @@ information about your web page.
 * Escape characters are used to include special
 characters in your pages such as <, >, and ©.
 
-__*chapter 17*__
+## __*chapter 17*__
 * The new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
 its structure.
