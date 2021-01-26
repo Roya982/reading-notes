@@ -13,3 +13,4 @@
 |----------|  ---------------|
 | read2a   | [read2a](https://roya982.github.io/reading-notes/read2a)      |
 | read2b   | [read2b](https://roya982.github.io/reading-notes/read2b)      |
+| read03   | [read03](https://roya982.github.io/reading-notes/read03)      |
