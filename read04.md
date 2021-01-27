@@ -2,9 +2,9 @@
 
 ![jsphoto](https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500)
 
-**Today my frind we'll be talking about a new programming language that is called "JavaScript", but befor we start let me give you small reminder about the related subject:**
+**Today my friends we'll be talking about a new programming language that is called "JavaScript", but before we start let me give you small reminder about the related subject:**
 
-JS always come along with HTML & CSS, and those are programming languages used to make a website, if we want to explain how do they work we have to mention the *human body* and it's 3 main organ system: **the skeletal system**, **the nervous system**, and finally **the integumentary system**. and while the *HTML* represents the *skeletal system*, the *CSS* represnts the *integumentary system*, the *JavaScript* represnts the *nervous system* of the website.
+JS always come along with HTML & CSS, and those are programming languages used to make a website, if we want to explain how do they work we have to mention the *human body* and it's 3 main organ system: **the skeletal system**, **the nervous system**, and finally **the integumentary system**. and while the *HTML* represents the *skeletal system*, the *CSS* represents the *integumentary system*, the *JavaScript* represents the *nervous system* of the website.
 
 ![HTML,JS,CSS](https://res.cloudinary.com/practicaldev/image/fetch/s--MMJ-4Na6--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/vikgj9pssaffio4xbb7j.png)
 
@@ -16,10 +16,10 @@ interactive front-end web development.
 
 **It helped me greatly in understanding the JS programming language.here you go the most important topics that was explained:**
 
-__*What is a script and how do I creat one?*__
+__*What is a script and how do I create one?*__
 * A script is a series of instructions that the computer can follow in order to achieve a goal.
 * Each time the script runs, it might only use a subset of all the instructions.
-* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
 * To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
 
 __*Basic JS instructions*__
