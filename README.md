@@ -17,3 +17,4 @@
 | read04   | [read04](https://roya982.github.io/reading-notes/read04)      |
 | read05   | [read05](https://roya982.github.io/reading-notes/read05)      |
 | read6a   | [read6a](https://roya982.github.io/reading-notes/read6a)      |
+| read6b   | [read6b](https://roya982.github.io/reading-notes/read6b)      |
