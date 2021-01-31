@@ -11,6 +11,7 @@ so to make it simple and fast I'll till you the most essential point about *Func
 
 **there is also something  called *Evaluating Conditions* & *Conditional Statemnts*** that is used to make something called loops.
 ![loopimg](https://cdn.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
+
 and here is main tips about it:
 * Conditional statements allow your code to make decisions about what to do next.
 
