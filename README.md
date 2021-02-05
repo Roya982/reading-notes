@@ -24,6 +24,7 @@ Code 102 Reading Notes
 Code 201 Reading Notes
 
 | The read | Link   |
+|----------|--------|
 | 201read1 | [201read1](https://roya982.github.io/reading-notes/201read1)  |
 | 201read2 | [201read2](https://roya982.github.io/reading-notes/201read2) |
 | 201read3 | [201read3](https://roya982.github.io/reading-notes/201read3) |
