@@ -26,7 +26,7 @@ Code 201 Reading Notes
 | The read | Link   |
 |----------|--------|
 | 201read1 | [201read1](https://roya982.github.io/reading-notes/201read1)  |
-| 201read2 | [201read2](https://roya982.github.io/reading-notes/201read2) |
+| class-02 | [class-02](https://roya982.github.io/reading-notes/class-02) |
 | 201read3 | [201read3](https://roya982.github.io/reading-notes/201read3) |
 | 201read4 | [201read4](https://roya982.github.io/reading-notes/201read4) |
 | 201read5 | [201read5](https://roya982.github.io/reading-notes/201read5) |
