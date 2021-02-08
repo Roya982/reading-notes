@@ -141,3 +141,108 @@ the page (e.g. headings, subheadings, paragraphs).
 emphasis should be placed, the definition of any
 acronyms used, when given text is a quotation).
 
+*lets check out the JavaScript book*
+
+# STATEMENTS :
+
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon. 
+
+# COMMENTS :
+
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code. 
+
+# WHAT IS A VARIABLE? 
+
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables
+
+A variable is a good name for this
+concept because the data stored
+in a variable can change (or vary)
+each time a script runs.
+
+# HOW TO DECLARE THE VARIABLES?
+
+befor you can use variable, you need to announce that you want to use it.
+
+**var** *variable name*
+
+# HOW TO ASSIGN A VALUE TTO VARIABLES?
+
+**variable name** = *variable value*
+
+# DATA TYPES 
+
+JavaScript distinguishes between numbers,
+strings, and true or false values known as
+Booleans. 
+
+# ARRAYS 
+
+An array is a special type of variable. It doesn't
+just store one value; it stores a list of values. 
+
+# CREATING AN ARRAY
+
+**var** *variable name* = [ more than one value separated by ( , ) and written between ( "" ) ]
+
+# EXPRESSIONS
+
+An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions and there is two types of it. 
+
+* EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE 
+
+* EXPRESSIONS THAT USE TWO OR
+MORE VALUES TO RETURN A
+SINGLE VALUE 
+
+# OPERATORS 
+
+Expressions rely on things called operators; they allow programmers to
+create a single value from one or more values. 
+
+# ARITHMETI C OPERATORS 
+
+| ( + ) | Adds one value to another |
+|-------|---------------------------|
+| ( - ) | Subtracts one value from another |
+| ( / ) | Divides two values|
+| ( * ) | Multiplies two values using an asterisk |
+| ( ++ ) | Adds one to the current number |
+| ( -- ) | Subtracts one from the current number |
+| ( % ) | Divides two values and returns the remainder |
+
+# STRING OPERATOR 
+
+There is just one string operator: the+ symbol.
+It is used to join the strings on either side of it. 
+
+here is the summary:
+
+* A script is made up of a series of statements. Each
+statement is like a step in a recipe.
+
+* Scripts contain very precise instructions. For example,
+you might specify that a value must be remembered
+before creating a calculation using that value.
+
+* Variables are used to temporarily store pieces of
+information used in the script.
+
+* Arrays are special types of variables that store more
+than one piece of related information.
+
+* JavaScript distinguishes between numbers (0-9),
+strings (text), and Boolean values (true or false).
+
+* Expressions evaluate into a single value.
+
+* Expressions rely on operators to calculate a value. 
