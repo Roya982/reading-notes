@@ -9,7 +9,12 @@
  I'm 23 years old, I've got a MLS bachelor dedree from *AABU* in **Jordan**. I'm optimistic person who loves to learn a new things whenever she get the chance.
 - follow me on github [Roya982](https://github.com/Roya982)
 
-Code 102 Reading Notes
+
+# Reading Notes
+
+This is where I can keep track of your observations and questions from the reading assignments throughout your course. It is a way to document and highlight my new knowledge.
+
+## Code 102 Reading Notes
 
 | the read |     link        |
 |----------|  ---------------|
@@ -21,7 +26,7 @@ Code 102 Reading Notes
 | read6a   | [read6a](https://roya982.github.io/reading-notes/read6a)      |
 | read6b   | [read6b](https://roya982.github.io/reading-notes/read6b)      |
 
-Code 201 Reading Notes
+## Code 201 Reading Notes
 
 | The read | Link   |
 |----------|--------|
@@ -41,3 +46,10 @@ Code 201 Reading Notes
 | 201read14a| [201read14a](https://roya982.github.io/reading-notes/201read14a) |
 | 201read14b| [201read14b](https://roya982.github.io/reading-notes/201read14b) |
 | 201read15| [201read15](https://roya982.github.io/reading-notes/201read15) |
+
+
+## Code 301 - Intermediate Software Development
+
+| The read | Link   |
+|----------|--------|
+|          |        |
