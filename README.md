@@ -52,4 +52,4 @@ This is where I can keep track of your observations and questions from the readi
 
 | The read | Link   |
 |----------|--------|
-|          |        |
+|301Read01 | [301Read01](https://roya982.github.io/reading-notes/301Read01) |
