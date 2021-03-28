@@ -58,3 +58,4 @@ This is where I can keep track of your observations and questions from the readi
 |301Read04 | [301Read04](https://roya982.github.io/reading-notes/301Read04) |
 |301Read05 | [301Read05](https://roya982.github.io/reading-notes/301Read05) |
 |301Read06 | [301Read06](https://roya982.github.io/reading-notes/301Read06) |
+|301Read07 | [301Read07](https://roya982.github.io/reading-notes/301Read07) |
